@@ -1,4 +1,4 @@
-const inquirer = require('inquirer');
+const inquirer = require('./.gitignore/node_modules/inquirer');
 const fs = require('fs');
 
 function test(answers) {
@@ -249,12 +249,12 @@ DEALINGS IN THE SOFTWARE.`
             },
             {
                 type: 'input',
-                name: 'Usage',
+                name: 'usage',
                 message: 'Provide instructions and examples for use.',
             },
             {
                 type: 'input',
-                name: 'credit',
+                name: 'credits',
                 message: 'List your collaborators, if any.',
             },
             {

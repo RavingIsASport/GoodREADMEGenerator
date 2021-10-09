@@ -1,6 +1,7 @@
 # Good README Generator
+
   ## Description
-  I've created an application to help you generate a READ me file for your repository.
+  I've built an application to help write a README file for you repository.
 
   ## Table of Contents
   - [Installation](#installation)
@@ -9,13 +10,13 @@
   - [License](#license)
 
   ## Installation
-  None
+  No installs needed.
   ## Usage
-  undefined
+  Just answer a few questions and an md file will be written.
   ## Deployed
   Not deployed
   ## Credits
-  undefined
+  No collaborators.
   ## Questions
     For any question you can reach me at, 
     - Github: github.com/RavingIsASport
